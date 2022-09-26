@@ -16,12 +16,14 @@ There is a lot we can learn from the data provided by CitiBike and that's not su
 
 <br>
 ![TotalTrips1.png](./Resources/TotalTrips1.png)
+
 <br>
 
 These trips are broken down in numerous ways throughout the data. First and foremost by usertypes (Customer and Subscribers).
 
 <br>
 ![TotalTrips2.png](./Resources/TotalTrips2.png)
+
 <br>
 
 As you can see, the subscribers account for many more trips than the non-subscribing customers. This data would make a great deal of sense seeing as how most commuters who use the service would likely be subscribers. This can also be broken down by the number of trips made based on age groups. The data here seems as though riders age 50 may be an anomaly given their surprising share of rides. This may be a default age given to riders who do not share their age information.
