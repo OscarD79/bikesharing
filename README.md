@@ -15,13 +15,13 @@ The purpose of this project is to explain visually the benefits of beginning a C
 There is a lot we can learn from the data provided by CitiBike and that's not surprising since there's <b>a lot</b> of data. In August 2019 there are more than 2 million total trips.
 
 <br>
-![Total_Trips1.png](./Images/Total_Trips1.png)
+![TotalTrips1.png](./Images/TotalTrips1.png)
 <br>
 
 These trips are broken down in numerous ways throughout the data. First and foremost by usertypes (Customer and Subscribers).
 
 <br>
-![Total_Trips2.jpg](./Images/Total_Trips2.jpg)
+![TotalTrips2.png](./Images/TotalTrips2.png)
 <br>
 
 As you can see, the subscribers account for many more trips than the non-subscribing customers. This data would make a great deal of sense seeing as how most commuters who use the service would likely be subscribers. This can also be broken down by the number of trips made based on age groups. The data here seems as though riders age 50 may be an anomaly given their surprising share of rides. This may be a default age given to riders who do not share their age information.
