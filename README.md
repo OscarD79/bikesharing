@@ -36,7 +36,7 @@ As you can see, the subscribers account for many more trips than the non-subscri
 
 <br>
 
-Trip duration required some additional steps to complete, but it has been completed and can provide us some additional insight into bike usage. In order to retrieve this information we had to employ the help of Python to calculate DateTime and extract the data. 
+Trip duration required some additional steps to complete, but it has been completed and can provide us some additional insight into bike usage. In order to retrieve this information we had to employ the help of Python to calculate DateTime and extract the data. The most common trip duration appears to be about 5 minutes.
 
 <br>
 
@@ -49,3 +49,42 @@ Trip duration required some additional steps to complete, but it has been comple
 ![TripDuration.jpg](./Resources/TripDuration.jpg)
 
 <br>
+
+Another piece of the puzzle was to examine the most popular times of day and days of the week to travel using CitiBike. The data conclude Monday through Friday bikes are checked out primarily in the morning and in the evening. The times would suggest that these are commuters as the time ranges are between 7am and 10am and between 4pm and 9pm. The weekend trips are primarily between 9am and 9pm on Saturday and 11am and 7pm on Sundays.
+
+<br>
+
+![TripsByWeekdayByHour.jpg](./Resources/TripsByWeekdayByHour.jpg)
+
+<br>
+
+Finally, the last piece of data was regarding gender. Here there is a great deal of information to examine: duration based on gender, the most popular days of the week and time based on gender and trips by usertype based on gender. Based on the latest information the gender gap is fairly narrow in Des Moines with women outnumbering men by about 3%. The below data speaks for itself.
+
+<br>
+
+![TripDurationByGender.jpg](./Resources/TripDurationByGender.jpg)
+
+<br>
+
+<br>
+
+![TripsByGenderByTimeAndWeekday.jpg](./Resources/TripsByGenderByTimeAndWeekday.jpg)
+
+<br>
+
+<br>
+
+![UserTripsByGenderByDay.jpg](./Resources/UserTripsByGenderByDay.jpg)
+
+<br>
+
+## Summary
+
+In conclussion, the concept of adding a CitiBike program to Des Moines, IA is a complicated decission. There is no guarantee that it will generate the type of success as New York and additional research may be needed. I recommend that there be a bar graph comparing the weather in New York to the weather in Des Moines to compare the climates as that may change the data and rates of usage. I also recommend creating a map and charting out potential start and drop off areas for the bikes as the cities' layout may be different and not as bike friendly.
+
+Please find below links to the Python file and Tableau Story Page:
+
+[NYC_CityBike_Challenge.ipynb](./Data/NYC_CityBike_Challenge.ipynb)
+
+[Link to the Tableau Story](https://public.tableau.com/app/profile/oscar.delgado7063/viz/CitiBikesDesMoines/CitiBikeDesMoines)
+
