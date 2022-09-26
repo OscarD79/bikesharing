@@ -15,6 +15,7 @@ The purpose of this project is to explain visually the benefits of beginning a C
 There is a lot we can learn from the data provided by CitiBike and that's not surprising since there's <b>a lot</b> of data. In August 2019 there are more than 2 million total trips.
 
 <br>
+
 ![TotalTrips1.png](./Resources/TotalTrips1.png)
 
 <br>
@@ -22,6 +23,7 @@ There is a lot we can learn from the data provided by CitiBike and that's not su
 These trips are broken down in numerous ways throughout the data. First and foremost by usertypes (Customer and Subscribers).
 
 <br>
+
 ![TotalTrips2.png](./Resources/TotalTrips2.png)
 
 <br>
