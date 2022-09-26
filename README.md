@@ -31,15 +31,21 @@ These trips are broken down in numerous ways throughout the data. First and fore
 As you can see, the subscribers account for many more trips than the non-subscribing customers. This data would make a great deal of sense seeing as how most commuters who use the service would likely be subscribers. This can also be broken down by the number of trips made based on age groups. The data here seems as though riders age 50 may be an anomaly given their surprising share of rides. This may be a default age given to riders who do not share their age information.
 
 <br>
-![TripsByAge.jpg](./Images/TripsByAge.jpg)
+
+![TripsByAge.jpg](./Resources/TripsByAge.jpg)
+
 <br>
 
 Trip duration required some additional steps to complete, but it has been completed and can provide us some additional insight into bike usage. In order to retrieve this information we had to employ the help of Python to calculate DateTime and extract the data. 
 
 <br>
+
 [NYC_CityBike_Challenge.ipynb](./Data/NYC_CityBike_Challenge.ipynb)
+
 <br>
 
 <br>
-![TripDuration.jpg](./Images/TripDuration.jpg)
+
+![TripDuration.jpg](./Resources/TripDuration.jpg)
+
 <br>
