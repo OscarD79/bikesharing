@@ -54,7 +54,7 @@ Another piece of the puzzle was to examine the most popular times of day and day
 
 <br>
 
-![TripsByWeekdayByHour.jpg](./Resources/TripsByWeekdayByHour.jpg)
+![TripsByWeekdayByHourHM.jpg](./Resources/TripsByWeekdayByHourHM.jpg)
 
 <br>
 
